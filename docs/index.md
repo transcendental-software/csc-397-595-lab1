@@ -4,8 +4,9 @@ title: CSC 397/595 Lab Assignment 1 (SALU)
 nav_order: 0
 ---
 
-# CSC 397/595 Lab Assignment 1 (SALU) Simple Arithmetical Logical Unit
-**Jarvis College of Computing and Digital Media - DePaul University**
+# CSC 397/595 Lab Assignment 1 (SALU)  
+**Jarvis College of Computing and Digital Media - DePaul University**  
+**Simple Arithmetical Logical Unit**
 
 ## Overview
 
